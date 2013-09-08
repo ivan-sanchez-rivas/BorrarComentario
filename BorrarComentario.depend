@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1378670578 source:c:\users\ivan\desktop\ejercicios c\borrarcomentario\main.c
+	<stdio.h>
+	<stdlib.h>
+

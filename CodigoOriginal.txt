@@ -1,0 +1,10 @@
+// int main()
+// {
+
+   */ FILE *leer;
+    leer = fopen("CodigoOriginal.txt","r");
+    BorrarComentarios(leer);*/
+   // printf("Se ha creado un .txt llamado ComentariosBorrados");
+    return 0;
+// }
+
